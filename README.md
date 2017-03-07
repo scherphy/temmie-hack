@@ -14,8 +14,6 @@ Using this script(macro), you can earn money automatically in Undertale.
 * Launch keyboard maestro
 * Then, "File"->"Import Macros..."->"temmie-hack.kmmacros"
 * Switch to Undertale window
-* And, go to Temmie Shop.(You must emptify inventory before go there)
-* Type ⌥+⌘+t
-
-####notice
-* please emptified inventory, before run script.
+* And, go to Temmie Shop.(You must emptify inventory)
+* Type ⌥+⌘+t (focus cursor "buy")
+![](./screenshot.png)
