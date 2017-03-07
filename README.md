@@ -7,7 +7,7 @@ Using this script(macro), you can earn money automatically in Undertale.
 ###usage:
 
 ####install keyboard maestro
-(here)[https://www.keyboardmaestro.com/main/]
+[here](https://www.keyboardmaestro.com/main/)
 
 ####import script
 * Clone this repository
