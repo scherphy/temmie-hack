@@ -1,6 +1,6 @@
 # requirement:
 
-* keyboard maestro
+* keyboard maestro ([link](https://www.keyboardmaestro.com))
 
 # usage:
 
