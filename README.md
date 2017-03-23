@@ -1,8 +1,8 @@
-###requirement:
+#requirement:
 
 * keyboard maestro
 
-####import script
+#usage:
 
 * Clone this repository
 * Launch keyboard maestro
