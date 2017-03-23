@@ -9,6 +9,6 @@
 * Then, "File"->"Import Macros..."->"temmie-hack.kmmacros"
 * Switch to Undertale window
 * And, go to Temmie Shop.(You must emptify inventory)
-* Type ⌥+⌘+t (focus cursor "buy")
+* Type ⌥+⌘+t (focus cursor "Buy")
 
 ![](./screenshot.png)
