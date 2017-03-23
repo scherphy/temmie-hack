@@ -1,8 +1,8 @@
-#requirement:
+# requirement:
 
 * keyboard maestro
 
-#usage:
+# usage:
 
 * Clone this repository
 * Launch keyboard maestro
