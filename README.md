@@ -1,5 +1,6 @@
 # requirement:
 
+* Mac
 * keyboard maestro ([link](https://www.keyboardmaestro.com))
 
 # usage:
